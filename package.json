@@ -1,5 +1,5 @@
 {
-  "name": "unicode-escape",
+  "name": "unicode-unescape",
   "version": "1.0.0",
   "description": "JavaScript remove ZERO WIDTH SPACE (unicode 8203) from string.",
   "main": "index.js",
