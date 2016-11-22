@@ -1,0 +1,11 @@
+{
+  "name": "unicode-escape",
+  "version": "1.0.0",
+  "description": "JavaScript remove ZERO WIDTH SPACE (unicode 8203) from string.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Truoc Pham",
+  "license": "ISC"
+}
